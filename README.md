@@ -18,11 +18,10 @@ Observação: O aplicativo ainda não foi desenvolvido — trata-se de uma **pro
 - Gustavo Henrique de Almeida Santos 
 - Guilherme Miguel de Carvalho Guedes 
 
-📅 2024
-🔗 [https://github.com/gabrielinacio19]
+📅 2025
+🔗 [https://github.com/gabrielcoatti]
 
 ----
 
 📬 Contato
-- ✉️ Email: *gabrielinacio487@gmail.com*  
-- 💼 LinkedIn: [www.linkedin.com/in/gabriel-inácio-b935012a7)
+- 💼 LinkedIn: [www.linkedin.com/in/gabrielcoatti]
